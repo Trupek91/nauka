@@ -16,6 +16,8 @@ func main() { // glowna funkcja ktora zawsze jest wyswietlana i wykonywana
 	fmt.Println(niraziel)
 	fmt.Println(trupka, Test)
 	fmt.Println(dodawanie(3, 1))
+	fmt.Println(xx())
+
 }
 
 // dowanie(a,b)  a ib to arugmenty i musza byc zawsze podane
