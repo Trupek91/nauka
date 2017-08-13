@@ -1,4 +1,4 @@
 # nauka
 nauka programowania
 
-Dodawanie noweg pliku
+Dodawanie nowego pliku
